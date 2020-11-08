@@ -1,0 +1,196 @@
+
+Table ENGINEERS created.
+
+
+Table FACULTY created.
+
+
+Table CLASSES created.
+
+
+Table CLASSENROLLMENTS created.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+       CID SUBJECT    CATALOGNBR TITLE                                             
+---------- ---------- ---------- --------------------------------------------------
+         3 BST-SPT    ST-0003    Best Special Teams                                
+         2 BST-DEF    BD-0002    Best Defense                                      
+         1 BST-OFF    BO-0001    Best Offense                                      
+
+
+       FID LASTNAME                                           FIRSTNAME                                          EMAIL                                              HIREDATE       
+---------- -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ---------------
+         3 Peyton                                             Sean                                               speyton@nfl.com                                    09/30/2020     
+         2 Harbaugh                                           John                                               jharbaugh@nfl.com                                  12/05/2020     
+         1 Arians                                             Bruce                                              barians@nfl.com                                    09/15/2020     
+
+
+      ENID        CID        FID        EID
+---------- ---------- ---------- ----------
+        15          2          2         15
+        14          2          1         14
+        13          1          1         13
+        12          3          1         12
+        11          3          3         11
+        10          2          3         10
+         9          3          1          9
+         8          1          2          8
+         7          2          1          7
+         6          3          1          6
+         5          3          2          5
+
+      ENID        CID        FID        EID
+---------- ---------- ---------- ----------
+         4          3          3          4
+         3          2          3          3
+         2          3          3          2
+         1          1          1          1
+
+15 rows selected. 
+
+
+1 row updated.
+
+
+1 row updated.
+
+
+1 row updated.
+
+
+1 row deleted.
+
+
+View JOINVIEW created.
+
+
+LASTNAME                                           FIRSTNAME                                         
+-------------------------------------------------- --------------------------------------------------
+Jackson                                            Lamar                                             
+Burrow                                             Joe                                               
+Mayfield                                           Baker                                             
+Prescott                                           Dak                                               
+Brees                                              Drew                                              
+Newton                                             Amadeus                                           
+Winston                                            Jameis                                            
+Bridgewater                                        Teddy                                             
+Maholmes                                           Patrick                                           
+Smith                                              Alex                                              
+Darnold                                            Sam                                               
+
+LASTNAME                                           FIRSTNAME                                         
+-------------------------------------------------- --------------------------------------------------
+Lock                                               Drew                                              
+Wilson                                             Russell                                           
+Jones                                              Daniel                                            
+
+14 rows selected. 
+
